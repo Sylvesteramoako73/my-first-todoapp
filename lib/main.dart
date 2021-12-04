@@ -61,7 +61,7 @@ class MyaPP extends StatelessWidget {
             Icon(Icons.check_circle_outline_rounded),
              Text("Completed"), 
              Icon(Icons.arrow_drop_down), Spacer(),
-             Text("25", style: TextStyle(backgroundColor: Colors.blue),)
+             Text("25",style: TextStyle(color: Colors.blue),)
           ],
         ),
       ),
